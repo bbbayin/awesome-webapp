@@ -42,9 +42,8 @@ nosetests.xml
 Icon?
 ehthumbs.db
 Thumbs.db
-dist
 MANIFEST
-
+venv
 # Translations
 *.mo
 
